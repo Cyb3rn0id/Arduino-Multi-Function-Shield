@@ -27,6 +27,9 @@
 #define	SR_DATA		8
 // other pins
 #define SENSOR_PIN	A4
+#define U5_PIN		A4
+#define U4_PIN		2
+
 
 
 // digit segment to bit
