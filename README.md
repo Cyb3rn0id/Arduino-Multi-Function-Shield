@@ -39,15 +39,10 @@ The *Sensor pin* (alias: *U5_PIN*) is located on the J4 header: as you can see, 
 Following is the pinout of the J4 connector (or U5 and U4) having the pin 1 on the most-left side having the 7-segments display on top:
 
 1. Arduino Digital Pin 2 (*U4_PIN*)
-
 2. GND
-
 3. +5V
-
 4. GND
-
 5. Arduino Analog Pin A4 (*SENSOR_PIN* or *U5_PIN*)
-
 6. +5V
 
 > Please check the pinout with a multimeter first than connect something on it since there are lot of variants of this shield.
